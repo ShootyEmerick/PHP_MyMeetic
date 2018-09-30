@@ -2,7 +2,7 @@
 
 session_start();
 
-define('BASE_URL', dirname(dirname($_SERVER['SCRIPT_NAME'])));
+define('BASE_URL', dirname($_SERVER['SCRIPT_NAME']));
 define('DS', DIRECTORY_SEPARATOR);
 define('VIEWS', BASE_URL.DS. 'views');
 
