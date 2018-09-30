@@ -8,7 +8,7 @@ All the needed files for have a visual example are in the repository.
 You need to import the database file, takes a look at "meestycall.sql" in the main directory.
 After make sure you respect Prerequisites, you can try it (use the main directory) :
 ```
-localhost/repositoryName/
+yourhost/repositoryName/
 ```
 
 ### Prerequisites
